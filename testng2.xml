@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- need to run regression test use this-->
+<suite name="Loan Department">   
+  <test  name="Personal Loan">
+   <packages>
+	<package name ="testintro"/>
+	
+	</packages> 
+    
+    
+  </test> 
+  
+  
+  
+  
+  
+ 
+  
+</suite> 
